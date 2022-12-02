@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1094175754918",
+    "project_id": "pushnotificationbtwdevices",
+    "storage_bucket": "pushnotificationbtwdevices.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094175754918:android:1876a0fd2dafb67795c267",
+        "android_client_info": {
+          "package_name": "com.pushnotificationbtwtwoormoredevices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094175754918-s7ebve4kp7nq2jrtvj1cd5fojap6q66c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDByhDPfQ5KNYisTfKni8BmAY21s8mpwFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094175754918-s7ebve4kp7nq2jrtvj1cd5fojap6q66c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
